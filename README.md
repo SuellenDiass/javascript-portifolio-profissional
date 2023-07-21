@@ -5,7 +5,7 @@
     <img width="700" src="https://github.com/SuellenDiass/SuellenDiass/assets/102911341/e56fb447-9c70-4d9b-a749-af8692ae3e0e">
 </p>
 <p align="center">Seja redirecionado à página do 
-<a href="" target="_blank">projeto</a></p>
+<a href="https://suellendiass.github.io/javascript-portifolio-profissional/" target="_blank">projeto</a></p>
 
 ## Descrição do projeto 
 

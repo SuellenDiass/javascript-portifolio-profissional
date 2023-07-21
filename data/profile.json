@@ -1,0 +1,90 @@
+
+
+{
+  "name": "Suellen Dias",
+  "photo": "https://github.com/SuellenDiass/SuellenDiass/assets/102911341/bb687f86-b07f-4ef6-bd61-b93036ca96b2",
+  "job": "Estudante Front-end",
+  "location": "Belo Horizonte - MG",
+  "phone": "(31) 00000-0000",
+  "email": "inserir-email-aqui@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      }
+    ],
+    "softSkills": [
+      "Organização",
+      "Comunicação",
+      "Multitarefa",
+      "Flexibilidade",
+      "Foco"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (básico)"
+    
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO Publicando Seu Portfólio Profissional no GitHub Pages",
+      "url": "colocar o link do projeto aqui",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO Desenvolvendo a Tela de Cadastro da Plataforma Dio com React",
+      "url": "https://github.com/SuellenDiass/react-tela-cadastro-dio.git",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO Curso React da Dio.me. Desafio criar uma calculadora com React.",
+      "url": "https://github.com/SuellenDiass/react-calculadora.git",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO Curso React da Dio.me.Desafio criar uma Wiki para salvar alguns repositórios do GitHub com React.",
+      "url": "https://github.com/SuellenDiass/react-wiki-repositorio-github.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Estudando as tecnologias: HTML5,CSS3, JavaScript",
+      "period": "Abril/2022 - até o momento",
+      "description": "Sou uma estudante desenvolvedora Front End . Tenho sólidos conhecimentos em HTML, CSS e JavaScript, e estou constantemente aprimorando minhas habilidades.\n\nAlém disso, estou estudando SQL Server e Python para ampliar meu conjunto de habilidades técnicas.\nBusco oportunidades para ganhar experiência prática e colaborar em projetos desafiadores.\n\nSou focada na qualidade do código e em entregar soluções eficientes. Estou ansiosa para contribuir em equipes inspiradoras e continuar crescendo como desenvolvedora Front End."
+    },
+    {
+      "name": "Resumo Profissional",
+      "period": "2005 - 2011",
+      "description": "A profissional no setor administrativo adquiri habilidades em diferentes áreas ao longo da minha carreira. Entre 2005 e 2011, desenvolvi competências em faturamento, gerenciamento e análise de dados. Como Arquivista, aprimorei a organização de documentos, enquanto como Secretária, aprimorei a comunicação e multitarefa. Em seguida, como Telefonista, ganhei experiência no atendimento ao cliente.\n\n Entre 2013 e 2015, atuei como Assistente Administrativo, adquirindo habilidades em finanças e compras. De 2018 a 2020, trabalhei como Recepcionista, aprimorando minas habilidades de atendimento. \n\nAtualmente, busco oportunidades na área de tecnologia, aplicando minhas habilidades transferíveis e buscando aprendizado contínuo. Minhas competências incluem HTML5, CSS, JavaScript, Microsoft SQL Server, Python, GitHub, multitarefa, capacidade de adaptação, gestão de tempo e organização."
+    },
+    {
+      "name": "",
+      "period": "",
+      "description": ""
+    }
+  ]
+}

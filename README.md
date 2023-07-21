@@ -4,6 +4,8 @@
 <p align="center">
     <img width="700" src="https://github.com/SuellenDiass/SuellenDiass/assets/102911341/e56fb447-9c70-4d9b-a749-af8692ae3e0e">
 </p>
+<p align="center">Seja redirecionado à página do 
+<a href="" target="_blank">projeto</a></p>
 
 ## Descrição do projeto 
 
@@ -62,7 +64,7 @@ Aqui está a explicação do que foi feito:
 
 1. Comentários: Os comentários no início do arquivo `api.js` informam que as funções da API foram centralizadas no arquivo, e que a requisição HTTP GET está sendo feita para obter os dados do arquivo "profile.json".
 
-2.<strong> Alteração da URL: A constante `url` foi definida com o valor `'data/profile.json'`, o que indica que o arquivo "profile.json" está localizado na pasta `data` em relação ao local do arquivo `api.js`. Essa é a alteração feita para consumir o arquivo local em vez de uma URL externa.
+2. Alteração da URL: A constante `url` foi definida com o valor `'data/profile.json'`, o que indica que o arquivo "profile.json" está localizado na pasta `data` em relação ao local do arquivo `api.js`. Essa é a alteração feita para consumir o arquivo local em vez de uma URL externo.
 
 3. Função assíncrona: A função `fetchProfileData()` é declarada como assíncrona usando a palavra-chave `async`. Isso permite que a função utilize o operador `await` para aguardar a conclusão da requisição `fetch()` sem bloquear a execução de outras partes do código.
 
